@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Streamer_PCM5242-rescue")(type "Legacy")(uri "${KIPRJMOD}/Streamer_PCM5242-rescue.lib")(options "")(descr ""))
+  (lib (name "SuperChipa_B-rescue")(type "Legacy")(uri "C:/Users/oleg.tetushkin/Documents/SuperChipa_B/SuperChipa_B-rescue.lib")(options "")(descr ""))
+  (lib (name "STREAMER-PCB-rescue")(type "Legacy")(uri "C:/Users/oleg.tetushkin/Documents/SuperChipa_B/STREAMER PCB-rescue.lib")(options "")(descr ""))
+  (lib (name "Streamer_PCM5242_FRONT_1-rescue")(type "Legacy")(uri "${KIPRJMOD}/Streamer_PCM5242_FRONT_1-rescue.lib")(options "")(descr ""))
+)
